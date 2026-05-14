@@ -1,0 +1,38 @@
+{
+  "expenses": [
+    {
+      "id": 1,
+      "description": "\ud83d\uded2 Vegetables",
+      "amount": 100.0,
+      "category": "\ud83d\uded2 Groceries",
+      "date": "2026-03-22",
+      "note": "Quick add"
+    },
+    {
+      "id": 2,
+      "description": "\ud83d\udc8a Medicine",
+      "amount": 200.0,
+      "category": "\ud83d\udc8a Health & Medical",
+      "date": "2026-03-22",
+      "note": "Quick add"
+    },
+    {
+      "id": 3,
+      "description": "\ud83d\udcf1 Mobile Recharge",
+      "amount": 299.0,
+      "category": "\ud83d\udcf1 Bills & Utilities",
+      "date": "2026-03-22",
+      "note": "Quick add"
+    },
+    {
+      "id": 4,
+      "description": "fruits",
+      "amount": 150.0,
+      "category": "\ud83c\udf5b Food & Dining",
+      "date": "2026-03-22",
+      "note": "cash"
+    }
+  ],
+  "budget": {},
+  "name": ""
+}
